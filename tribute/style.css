@@ -1,0 +1,73 @@
+.font {
+  font-family: pt-sans-narrow;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 25px;
+  position: relative;
+  bottom: 30px;
+}
+
+p1 {
+  font-family: sans-serif;
+}
+
+#quote, #credit {
+  text-align: center;
+}
+
+p3.font {
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: pt-sans-narrow;
+  font-style: italic;
+  font-size: 30px;
+}
+
+p4 {
+  font-family: pt-sans-narrow;
+  font-size: 20px;
+}
+
+#page {
+  margin: 0 100px 0 100px;
+  background-color: #A4DDDE;
+}
+
+#body {
+  margin: 0 330px 0 330px;
+  background-color: #00445b;
+}
+
+#list {
+  margin: 0 330px 0 330px;
+}
+
+img.center {
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#info {
+  margin-top: 50px;
+}
+
+li {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+a:link {
+  text-decoration: none;
+}

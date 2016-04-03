@@ -1,0 +1,50 @@
+p, h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-family: bebas-neue, sans-serif;
+}
+
+h2 {
+  font-family: kotta-one, serif;
+}
+
+p {
+  font-family: cabin;
+  line-height: 0px;
+  font-size: 110%
+}
+
+#button {
+  text-align: center;
+}
+
+#main {
+  padding-top: 200px;
+}
+
+#newQuote, #tweetme {
+  font-family: cabin;
+  font-weight: bold;
+}
+
+#quote, #speaker {
+  text-align: center;
+}
+
+#quote {
+  font-family: kotta-one;
+  font-size: 200%;
+}
+
+#speaker {
+  font-family: cabin;
+  font-size: 125%;
+}
+
+.btn {
+  border-radius: 0;
+  text-transform: uppercase;
+  border: none;
+}
