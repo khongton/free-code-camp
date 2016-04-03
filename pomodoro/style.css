@@ -1,0 +1,70 @@
+body {
+  background-color: #C2F0F0
+}
+
+h1, #main_clock, #main_timer, #set_timer, p {
+  text-align: center;  
+}
+
+p {
+  font-family: electrolize;
+  font-size: 120%;
+}
+
+#padding {
+  padding-top: 150px;
+}
+
+#titlePadding {
+  padding-top: 50px;
+}
+
+#title {
+  font-family: exo;
+}
+
+#pomodoro_time, #break_time, p1 {
+  font-family: exo;
+  font-weight: bold;
+  font-size: 275%
+}
+#timer {
+  font-family: exo;
+  font-weight: bold;
+  font-size: 400%;
+}
+
+
+.btn {
+  font-family: electrolize;
+  border-radius: 0;
+  border: 0 none;
+  font-size: 125%;
+}
+
+.btn-success {
+  font-family: exo;
+}
+
+#transbox {
+  background-color: #FFFFFF;
+  border: 1px solid black;
+  opacity: 0.85;
+}
+
+#timerbox {
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: #FFFFFF;
+  border: 1px solid black;
+  opacity: 0.85;
+}
+
+#timepad {
+  padding-top: 50px;
+}
+
+#timeTitle, p2 {
+  font-family: electrolize;
+  font-size: 175%;
+}
